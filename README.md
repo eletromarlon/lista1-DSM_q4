@@ -8,6 +8,6 @@ errados e algumas inconsistencia poderão ser percebidas durante o uso.
 Os erros já constatados ficam por parte de buffer de memoria, descarte de ponto 
 flutuante, não aceitação de expressões maiores.
 
-![construção do app](/ima/snack-running-q4.png)
+![construção do app](https://github.com/eletromarlon/lista1-DSM_q4/blob/main/img/snack-running-q4.png)
 
 # Marlon Duarte - eletromarlon@gmail.com
